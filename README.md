@@ -12,11 +12,11 @@ Chức năng:
   
 Hướng dấn sử dụng:
 
-  Bước 1: Tải Turbine BuildTools tại
-  Bước 2: Nhập phiên bản
-  Bước 3: Đợi
-  Bước 4: Mở file Turbine_<phiên bản>.jar
-  Bước 5: Nhập thông số và nhấn ok
-  Bước 6: Chạy file bat đã tạo sẵn
+  - Bước 1: Tải Turbine BuildTools tại
+  - Bước 2: Nhập phiên bản
+  - Bước 3: Đợi
+  - Bước 4: Mở file Turbine_<phiên bản>.jar
+  - Bước 5: Nhập thông số và nhấn ok
+  - Bước 6: Chạy file bat đã tạo sẵn
   
-SC: Soon
+Source code: [SC](https://github.com/WaIaF/Turbine)
